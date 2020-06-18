@@ -2,7 +2,7 @@
 
 Hier sammeln wir die Lieblingsorte der Teilnehmer:innen des Kurses Let's Git - Versionsverwaltung und Open Source. Beiträge sind sehr willkommen! Wenn Du Änderungen oder neue Inhalte hinzufügen möchten, öffne bitte ein Issue oder erstelle einen Pull Request.
 
-## Ein neues Rezept hinzufügen
+## Einen neuen Eintrag hinzufügen
 
 Wenn du einen Ort hinzufügen möchtest, dann erstelle ein Issue und beschreibe diesen kurz. Anschließend kannst du den Reiseführereintrag schreiben (wie in [Beispielort.md](Beispielort.md) beschrieben) und mit einem Pull Request einreichen. Bitte achte darauf, dass du den Ort in den richtigen Ordner einordnest (Bitte bis auf Länderebene, also Berlin in Europa/Deutschland/Berlin.md) und schön mit Markdwon formatierst.
 
