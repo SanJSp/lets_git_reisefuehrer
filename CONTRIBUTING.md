@@ -1,4 +1,4 @@
-# Zum Let's Git Kochbuch beitragen
+# Zum Let's Git Reiseführer beitragen
 
 ## Vorbedingungen
 Zunächst einmal vielen Dank für dein Interesse an einem Beitrag, wir begrüßen Pull-Requests!
