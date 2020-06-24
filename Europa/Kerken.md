@@ -20,4 +20,4 @@ Have a nice breakfast at Oomen in Nieukerk.
 
 ## Bild
 
-Hier kann ein oder mehrere Bilder des Ortes eingefügt werden.
+![Kerken](Kerken.jpeg)
