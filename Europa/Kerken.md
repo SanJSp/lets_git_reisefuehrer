@@ -10,8 +10,9 @@ Kerken ist eine wunderschöne Gemeinde am Niederrhein, nordwestlich von Düsseld
 
 ## Sehenswürdigkeiten
 
-Stichpunktartige Auflistung der Sehenswürdigkeiten wie z.B.
-* Kolloseum
+* Eyller See
+* St.-Dionysius-Kirche
+* St.-Thomas-Kirche
 
 ## Tipps
 
