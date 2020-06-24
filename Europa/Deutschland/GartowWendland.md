@@ -30,8 +30,7 @@ Tipp 1: Fahrradtour auf der Brandenburgischen Elbseite flussabwärts (erreichbar
 
 Tipp 2: Fahrradtour in der Alandniederung im Osten von Gartow (Sachsen-Anhalt) 
 
-## Bild
+## Bild Gartower See
 
-<img src="https://de.wikipedia.org/wiki/Gartow#/media/Datei:Gartower_See_2011-08-02.jpg"Gartower See" />
-
+<img src="https://de.wikipedia.org/wiki/Gartow#/media/Datei:Gartower_See_2011-08-02.jpg"/>
 
