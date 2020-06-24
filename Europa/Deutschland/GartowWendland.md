@@ -32,5 +32,5 @@ Tipp 2: Fahrradtour in der Alandniederung im Osten von Gartow (Sachsen-Anhalt)
 
 ## Bild
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gartower_See_2011-08-02.jpg/220px-Gartower_See_2011-08-02.jpg "Gartower See")
+![Bild Gartower See](https://https://de.wikipedia.org/wiki/Gartow#/media/Datei:Gartower_See_2011-08-02.jpg "Gartower See")
 
