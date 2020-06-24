@@ -16,9 +16,7 @@ Kerken ist eine wunderschöne Gemeinde am Niederrhein, nordwestlich von Düsseld
 
 ## Tipps
 
-Hier können Tipps und Empfehlungen bezüglich des Ortes beschrieben werden z.B.
-
-Tipp 1: Früh am Petersdom anstellen, um nicht so lange in der Hitze stehen zu müssen.
+Have a nice breakfast at Oomen in Nieukerk.
 
 ## Bild
 
