@@ -1,8 +1,6 @@
-*Hier sieht man wie ein Beispielreiseführereintrag aussehen sollte.*
+# Kerken
 
-# Titel des Ortes
-
-Kurze Beschreibung wie der Ort heißt, wann er zum Beispiel entstanden ist und in welchem Land/Kontinent er sich befindet. 
+Kerken ist eine wunderschöne Gemeinde am Niederrhein, nordwestlich von Düsseldorf, Deutschland. 
 
 ## Geschichte
 
