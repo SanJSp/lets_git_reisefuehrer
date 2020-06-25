@@ -1,5 +1,3 @@
-*Hier sieht man wie ein Beispielreiseführereintrag aussehen sollte.*
-
 # Erding
 ## Altbayerische Herzogsstadt
 
@@ -7,8 +5,8 @@ Warum denn in die Ferne schweifen, liegt das Gute doch so nah! Egal, ob privat, 
 
 ## Geschichte
 
-Eine kurze chronologische Auflistung der historischen Meilensteine des Ortes. Beispielsweise
-* Der Legende nach wurde Rom im Jahre 753 v. Chr. gegründet
+* Älteste Funde im Landkreis sind etwa 9000 Jahre alt
+* Die Stadtgründung erfolgte vor über 800 Jahren
 
 ## Sehenswürdigkeiten
 
@@ -23,11 +21,10 @@ Eine kurze chronologische Auflistung der historischen Meilensteine des Ortes. Be
 ## Tipps
 
 Ideale Verkehrsanbindungen, u.a.
-S-Bahn nach München
-15 Autominuten zum Flughafen München
-Tagesausflüge ins Bayerische Oberland usw...
+* S-Bahn nach München
+* 15 Autominuten zum Flughafen München
+* Tagesausflüge zur Donau, in die Alpen usw...
 
-## Erding Schrannenplatz
-
-Erding2009.jpg
+## Erding Schrannenplatz:
+<img src= "Erding2009.jpg>
 
