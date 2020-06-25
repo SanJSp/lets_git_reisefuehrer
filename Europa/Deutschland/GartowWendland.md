@@ -18,7 +18,7 @@ Gartow liegt ganz im Osten von Niedersachsen im Wendland und auf dem Gebiet des 
 * Im Zuge der Verwaltungs- und Gebietsreform 1972 wurde die Samtgemeinde Gartow mit Sitz in Gartow gebildet.
 * Heute beträgt die Fläche der Samtgemeinde Gartow 184,76 km², auf der ca. 4100 Einwohner leben.
 
-## Sehenswürdigkeiten
+## Sehenswürdigkeiten 
 
 * St.-Georg-Kirche
 * Schloss und Gut Gartow
