@@ -26,4 +26,5 @@ Ideale Verkehrsanbindungen, u.a.
 * Tagesausflüge zur Donau, in die Alpen usw...
 
 ## Erding Schrannenplatz:
-<img src= "‪D:\Erding2009.png">
+<img src= "‪D:\project\lets_git_reisefuehrer\Erding2009.png">
+
