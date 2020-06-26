@@ -1,12 +1,12 @@
 # Erding
-## Altbayerische Herzogsstadt
+## Altbayerische Herzogstadt
 
 Warum denn in die Ferne schweifen, liegt das Gute doch so nah! Egal, ob privat, geschäftlich oder als Urlaubsort, Erding ist immer selbst oder als zentraler Ausgangspunkt eine Reise wert.
 
 ## Geschichte
 
-* Älteste Funde im Landkreis sind etwa 9000 Jahre alt
-* Die Stadtgründung erfolgte vor über 800 Jahren
+* Die ältesten Funde im Landkreis sind etwa 9000 Jahre alt
+* Die Stadtgründung Erdings erfolgte vor über 800 Jahren
 
 ## Sehenswürdigkeiten
 
