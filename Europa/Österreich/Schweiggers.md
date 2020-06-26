@@ -21,4 +21,4 @@ Der Name Schweiggers leitet sich vom althochdeutschen Vornamen Swidger ab und ta
 
 ## Bild
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Rathaus_in_Schweiggers_2018.jpg" alt="Rathaus in Schweiggers\>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rathaus_in_Schweiggers_2018.jpg/640px-Rathaus_in_Schweiggers_2018.jpg" alt="Rathaus in Schweiggers"/>
