@@ -30,4 +30,9 @@ Seit 1890 gehört die Inselgruppe zum deutschen Staatsgebiet. Das besondere ist,
 ## Bild
 
 ![Die Lange Anna Bild: Matthias kannegiesser CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Helgoland_Lange_Anna.jpg/1280px-Helgoland_Lange_Anna.jpg)
+Die Lange Anna
+Bild: Matthias kannegiesser CC BY-SA 3.0
+
 ![Hummerbuden auf dem Unterland Bild: Hein.Mück CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/3/36/Helgoland_Hummerbuden_2010.JPG)
+Hummerbuden auf dem Unterland
+Bild: Hein.Mück CC BY-SA 3.0
